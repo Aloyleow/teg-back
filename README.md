@@ -1,6 +1,6 @@
-# Three Endventure Game (V2.0.0)
+# Three Endventure Game (V2.0.0) 
 Start playing here! - [3 Endventure Game](https://threeendventuregame.vercel.app/)
-
+***3 Endventure game has been upgraded. The link to the game does not represent this repo***
 ## Technologies used
 
 - **Frontend**
